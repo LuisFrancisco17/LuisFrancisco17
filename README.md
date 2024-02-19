@@ -11,7 +11,7 @@
 
 ###
 
-<img height="180" width="300" align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img height="150" width="280" align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 <p align="left">✨ Me apasiona el desarrollo de software.<br>📚 Me gusta aprender más sobre Front End.<br>🎯 Me esfuerzo por mejorar mis habilidades.<br>🙏 La familia es un pilar fundamental. <br>🐶 Disfruto pasar tiempo con mi mascota.<br>⚽ En mis tiempos libres me gusta jugar futbol.</p>
 
 

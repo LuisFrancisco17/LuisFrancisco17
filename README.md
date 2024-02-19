@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img height="200" width="300" align="center" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <h1 align="left">Holaaa!! 👋 y bienvenidos a mi perfil de GitHub</h1>
 

@@ -1,23 +1,22 @@
 
-<h1 align="left">Holaaa!! 👋 y bienvenidos a mi perfil de GitHub</h1>
+<h1 align="left">Hiii!! 👋, I'm Luis Gil Florian</h1>
 
 ###
 
-<p align="left">Mi nombre es Luis Gil y soy de Perú.</p>
+<p align="left">I am a Systems Engineer with knowledge in programming, databases and information systems.</p>
 
 ###
 
-<h2 align="left">Sobre mi</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<img height="150" width="280" align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-<p align="left">✨ Me apasiona el desarrollo de software.<br>📚 Me gusta aprender más sobre Front End.<br>🎯 Me esfuerzo por mejorar mis habilidades.<br>🙏 La familia es un pilar fundamental. <br>🐶 Disfruto pasar tiempo con mi mascota.<br>⚽ En mis tiempos libres me gusta jugar futbol.</p>
-
+<img height="170" width="280" align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<p align="left">✨ I am passionate about software development.<br>📚 I’m interested in Coding.<br>🎯 I strive to improve my skills.<br>🙏 Family is a fundamental pillar.<br>🐶 I enjoy spending time with my pet.<br>⚽ I like to play soccer.</p>
 
 ###
 
-<h2 align="left">Lenguajes y herramientas</h2>
+<h2 align="left">languages ​​and tools</h2>
 
 ###
 
@@ -53,8 +52,6 @@
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
 </div>
 
 ###

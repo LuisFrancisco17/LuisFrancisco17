@@ -11,7 +11,7 @@
 
 ###
 
-<img height="170" width="280" align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img height="160" width="280" align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 <p align="left">✨ I am passionate about software development.<br>📚 I’m interested in Coding.<br>🎯 I strive to improve my skills.<br>🙏 Family is a fundamental pillar.<br>🐶 I enjoy spending time with my pet.<br>⚽ I like to play soccer.</p>
 
 ###
